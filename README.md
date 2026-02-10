@@ -10,7 +10,7 @@ This repository contains my solutions to LeetCode problems.
 
 
 ## Progress
-- Arrays: 12 problems
+- Arrays: 13 problems
 
 ## Goal
 To strengthen my DSA and problem-solving skills for software engineering roles.

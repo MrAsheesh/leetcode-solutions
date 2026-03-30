@@ -7,10 +7,12 @@ This repository contains my solutions to LeetCode problems.
 
 ## Topics Covered
 - Arrays
+- Linked Lists
 
 
 ## Progress
-- Arrays: 15 problems
+- Arrays: 15 Problems
+- Linked Lists: 4 Problems
 
 ## Goal
 To strengthen my DSA and problem-solving skills for software engineering roles.
